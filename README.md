@@ -10,23 +10,6 @@
 - **Aplikasi:** Pengembangan aplikasi yang disesuaikan dengan kebutuhan klien, baik itu aplikasi web, mobile, atau desktop.
 - **Solusi Digital Lainnya:** Layanan khusus lainnya yang mencakup pengembangan perangkat lunak, integrasi sistem, dan sebagainya.
 
-### Kisah Kami
-
-5ERAcode dibangun oleh dua orang yang bernama **Septian** dan **Reza**. Nama "5ERA" berasal dari gabungan nama mereka:
-
-- **SE** dari **SEptian**
-- **RA** dari **RezA**
-
-Angka **5** menggantikan huruf **S** dalam "SERA", melambangkan lima tahap perkembangan kami sebagai programmer:
-
-1. **Introduction** - Awal mula perjalanan kami di dunia pemrograman.
-2. **Newbie** - Fase belajar dasar-dasar coding dan teknologi.
-3. **Junior** - Mulai mengerjakan proyek nyata dan membangun portofolio.
-4. **Senior** - Mengambil peran lebih besar dalam pengembangan proyek dan mentoring.
-5. **Professional** - Menyediakan solusi berkualitas tinggi untuk klien di berbagai industri.
-
-Kami percaya bahwa setiap proyek yang kami kerjakan adalah bagian dari perjalanan kami menuju fase berikutnya, dengan komitmen untuk selalu berkembang dan memberikan yang terbaik.
-
 ## Teknologi yang Kami Gunakan
 
 Kami menggunakan teknologi terbaru dan terbaik untuk memastikan setiap solusi yang kami tawarkan adalah yang terbaik:
