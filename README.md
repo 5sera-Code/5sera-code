@@ -1,6 +1,5 @@
 # 5ERAcode
 
-![5ERAcode Logo](https://your-logo-link-here.com)
 
 ## Tentang Kami
 
